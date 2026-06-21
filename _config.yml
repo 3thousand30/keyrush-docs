@@ -10,6 +10,8 @@ color_scheme: dark
 
 nav_sort: order
 
+logo: "https://3thousand30.github.io/keyrush-docs/assets/images/logo.png"
+
 aux_links:
   "Get on Microsoft Store": "https://apps.microsoft.com/detail/9MW7722B1026"
   "3thousand30": "https://3thousand30.com/"
