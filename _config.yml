@@ -1,0 +1,20 @@
+remote_theme: just-the-docs/just-the-docs
+
+title: Key Rush
+description: Privacy, controls, support, and install notes for the Key Rush desktop app.
+url: https://3thousand30.github.io
+baseurl: /keyrush-docs
+repository: 3thousand30/keyrush-docs
+
+color_scheme: dark
+
+nav_sort: order
+
+aux_links:
+  "Get on Microsoft Store": "https://apps.microsoft.com/detail/9MW7722B1026"
+  "3thousand30": "https://3thousand30.com/"
+
+aux_links_new_tab: true
+
+footer_content: >
+  &copy; 2026 <a href="https://3thousand30.com">3thousand30</a> · Key Rush docs
